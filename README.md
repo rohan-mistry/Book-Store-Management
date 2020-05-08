@@ -35,11 +35,11 @@ Complete book store management solution was implemented using data structures in
 
 ![dashboard](/doc/img/dashboard.png)
 
-### Language 
+## Language 
 
 - `C`
 
-### Data Structures Used :
+## Data Structures Used :
 
 * Stack
 * Queue
