@@ -16,6 +16,7 @@
   
 
   <h1 align="center">📚Book Store Management</h1>
+  <h3 align="center" style="font-style:italic"> Sem 3 - Data Structures Project </h3>
     <br/>
  
 </p>
@@ -28,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-```Sem 3 - Data Structures Project```
+
 Complete book store management solution was implemented using data structures in C.
 
 
@@ -36,7 +37,7 @@ Complete book store management solution was implemented using data structures in
 
 ### Language 
 
-`C`
+- `C`
 
 ### Data Structures Used :
 
